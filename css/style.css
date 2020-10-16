@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    padding: 6px;
+}
+
+body {
+    background-color: rgb(165, 67, 67);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    width: 960px;
+    background-color: rgb(204, 204, 74);
+    padding:auto;
+    margin:auto;
+    height: 750px;
+    border: solid black 5px;
+    box-shadow: 10px 10px 8px;
+}
+
+header h1 {
+    text-decoration: underline;
+    text-shadow: 1px 3px 8px rgb(165, 67, 67);
+    width: 50%;
+    text-align: center;
+}
+
+section img {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    border-radius: 250px;
+    text-align: center;
+    box-shadow: 10px 10px 8px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-shadow: 1px 3px 8px rgb(165, 67, 67);
+}
+
+ul {
+    padding-left: 36px;
+    float: left;
+    font-size: 24px;
+}
